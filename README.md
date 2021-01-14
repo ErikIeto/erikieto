@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Erik Ieto</h1>
 
-
+<br>
 
 
 - 🔭 I’m currently studying HTML5, CSS3, JS, React and Node.JS **a project**
