@@ -4,6 +4,9 @@
 <h1 align="center">Hi 👋, I'm Erik Ieto</h1>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikieto&label=Profile%20views&color=0e75b6&style=flat" alt="erikieto" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently studying HTML5, CSS3, JS, React and Node.JS **a project**
 
@@ -13,12 +16,11 @@
 
 - 📫 How to reach me **erik_ieto@hotmail.com**
 
-- 👌🏽 Phrase - **"Be better today than you were yesterday, and be better tomorrow than you are today"**
-
+- 👌🏽 Phrase **"Be better today than you were yesterday, and be better tomorrow than you are today"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/erik-ieto-sobral" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="erik-ieto-sobral" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erik-ieto-sobral" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erik-ieto-sobral" height="30" width="40" /></a>
 <a href="https://fb.com/erik.ieto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="erik.ieto" height="30" width="40" /></a>
 <a href="https://instagram.com/@erikchineis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@erikchineis" height="30" width="40" /></a>
 <a href="https://www.behance.net/erikieto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="erikieto" height="30" width="40" /></a>
@@ -32,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erikieto&show_icons=true&locale=en" alt="erikieto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikieto&" alt="erikieto" /></p>
