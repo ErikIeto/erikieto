@@ -1,9 +1,9 @@
 
 
 
-h1 align="center">
+
     <img alt="cover-page" title="Erik Ieto" src="github/cover.gif" width="100%" />
-</h1>
+
 
 <br>
 
