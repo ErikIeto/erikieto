@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently studying HTML5, CSS3, JS, React and Node.JS **a project**
 
-- 🌱 I’m currently learning new tools **tools** trough **[@Rocketseat](https://github.com/Rocketseat)**
+- 🌱 I’m currently learning new tools **tools** Through **[@Rocketseat](https://github.com/Rocketseat)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErikIeto](https://github.com/ErikIeto)
 
