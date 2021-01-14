@@ -13,11 +13,8 @@
 
 - 📫 How to reach me **erik_ieto@hotmail.com**
 
-- 👌🏽 Phrase **"Be better today than you were yesterday, and be better tomorrow than you are today"**
+- 👌🏽 Phrase - **"Be better today than you were yesterday, and be better tomorrow than you are today"**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
