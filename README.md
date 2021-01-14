@@ -1,7 +1,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Erik Ieto</h1>
+h1 align="center">
+    <img alt="cover-page" title="Erik Ieto" src="github/cover.gif" width="100%" />
+</h1>
 
 <br>
 
