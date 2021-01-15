@@ -10,15 +10,15 @@
 <br>
 
 
-- 🔭 &nbsp I’m currently studying HTML5, CSS3, JS, React and Node.JS **a project**
+- 🔭 &nbsp; I’m currently studying HTML5, CSS3, JS, React and Node.JS **a project**
 
-- 🌱 &nbsp Constant studying 
+- 🌱 &nbsp; Constant studying 
 
-- 👨‍💻  &nbsp All of my projects are available at [https://github.com/ErikIeto](https://github.com/ErikIeto)
+- 👨‍💻  &nbsp; All of my projects are available at [https://github.com/ErikIeto](https://github.com/ErikIeto)
 
-- 📫  &nbsp How to reach me **erik_ieto@hotmail.com**
+- 📫  &nbsp; How to reach me **erik_ieto@hotmail.com**
 
-- 👌🏽  &nbsp Phrase **"Be better today than you were yesterday, and be better tomorrow than you are today"**
+- 👌🏽  &nbsp; Phrase **"Be better today than you were yesterday, and be better tomorrow than you are today"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
