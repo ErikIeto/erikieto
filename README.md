@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/erik-ieto-sobral" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erik-ieto-sobral" height="30" width="40" /></a>
 <a href="https://fb.com/erik.ieto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="erik.ieto" height="30" width="40" /></a>
-<a href="https://instagram.com/@erikchineis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@erikchineis" height="30" width="40" /></a>
+<a href="https://instagram.com/@erikchineis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@erikchineis" height="30" width="40" color="blue"/></a>
 <a href="https://www.behance.net/erikieto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="erikieto" height="30" width="40" /></a>
 <a href="https://discord.gg/Erik Ieto#1363" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Erik Ieto#1363" height="30" width="40" /></a>
 </p>
