@@ -16,7 +16,7 @@
 
 - 🌱 &nbsp; Constant studying ;
 
-- 👨‍💻  &nbsp; All of my projects are available at [https://github.com/ErikIeto](https://github.com/ErikIeto);
+- 👨‍💻  &nbsp; All of my projects are available at [ErikIeto](https://erik-personal-site.netlify.app/);
 
 - 📫  &nbsp; How to reach me **erik_ieto@hotmail.com**;
 
