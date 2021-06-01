@@ -20,6 +20,17 @@
 
 - 👌🏽  &nbsp; Phrase **"Be better today than you were yesterday, and be better tomorrow than you are today"**;
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ErikIeto)
+
+<p align="left">
+<a href="https://github.com/ErikIeto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ErikIeto&count_private=true&show_icons=true"/>
+    <p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikIeto&layout=compact&langs_count=8"/>
+    </p>
+</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erik-ieto-sobral" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erik-ieto-sobral" height="30" width="40" /></a>
