@@ -5,7 +5,7 @@
     <img alt="cover-page" title="Erik Ieto" src="github/cover.gif" width="100%" />
 </h1>
 
-<img src=".github/github-user-contribution.svg" width="100%" />
+<img align="center" src="github/github-user-contribution.svg" width="100%" />
     
 
 
