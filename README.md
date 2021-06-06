@@ -6,8 +6,6 @@
 <!-- SNAKE ANIMATION -->
 <img align="center" src="github/github-user-contribution.svg" width="100%" />
   
-<br>
-
 <!-- ABOUT ME -->
 - 🔭 &nbsp; I’m currently studying HTML5, CSS3, JS, React and VTEX IO;
 
@@ -86,7 +84,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" title="adobe illustrator" width="40" height="40"/> </a> 
 <!-- PHOTOSHOP -->
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="adobe photoshop" width="40" height="40"/> </a> 
-<br>
+
+<!-- GIF -->
 <div align="left">
 <img src="https://blog.cloudlayer.io/content/images/size/w600/2020/12/coding-freak.gif" alt="gif-coding" title="coding" width="30%" />
 </div>
