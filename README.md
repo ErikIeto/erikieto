@@ -87,7 +87,9 @@
 <!-- PHOTOSHOP -->
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="adobe photoshop" width="40" height="40"/> </a> 
 
-<img align="center" src="https://blog.cloudlayer.io/content/images/size/w600/2020/12/coding-freak.gif" alt="gif-coding" title="coding" width="50%" />
+<div align="center">
+<img src="https://blog.cloudlayer.io/content/images/size/w600/2020/12/coding-freak.gif" alt="gif-coding" title="coding" width="100%" height="30%" />
+</div>
 
 
 #### _References: [Snake animation](https://github.com/Platane/snk)_
