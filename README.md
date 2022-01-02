@@ -7,7 +7,7 @@
 <img align="center" src="github/github-user-contribution.svg" width="100%" />
   
 <!-- ABOUT ME -->
-- 🔭 &nbsp; I’m currently studying HTML5, CSS3, JS, React and VTEX IO;
+- 🔭 &nbsp; I’m currently studying HTML5, CSS3, JS, React, Gatsbt and VTEX IO;
 
 - 🌱 &nbsp; Constant studying ;
 
